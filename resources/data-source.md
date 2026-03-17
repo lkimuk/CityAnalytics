@@ -5,7 +5,21 @@
 - [2025 GDP](https://tjj.zj.gov.cn/col/col1229129214/art/2026/art_9071b51ec2134c06ae24deac04e430f4.html)
 
 ## 上海
-- [2025 GDP](https://tjj.sh.gov.cn/ydsj2/20260120/7cde88dd2bd541d383a67b5b5a0f36b3.html)
+- [2025 GDP](https://tjj.sh.gov.cn/tjxw/20260120/d3f4918a77484c77bed173db6aaef33c.html)
+    - [2025年上海市生产总值](https://tjj.sh.gov.cn/ydsj2/20260120/7cde88dd2bd541d383a67b5b5a0f36b3.html)
+- [2024 GDP](https://tjj.sh.gov.cn/tjxw/20250122/4fbff8f152384fc7a337794ea4ff55e2.html)
+- [2023 GDP](https://tjj.sh.gov.cn/tjxw/20240126/a4344377b13647e9973707fc0e05bf3e.html)
+- [2022 GDP](https://tjj.sh.gov.cn/tjxw/20230119/53d24491b70344258d85d1305af5b57c.html)
+- [2021 GDP](https://tjj.sh.gov.cn/tjxw/20220120/f6ba2f481945418f9bc20bbf67429dfc.html)
+- [中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议](https://www.shanghai.gov.cn/nw4411/20260119/4c72d40dbda44ea2bc71d384068a7edb.html)
+- [上海市地区生产总值列表](https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%9C%B0%E5%8C%BA%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC%E5%88%97%E8%A1%A8)
+
+## 北京
+- [2025 GDP](https://tjj.beijing.gov.cn/bwtt_31461/202601/t20260121_4452268.html)
+- [2024 GDP](https://tjj.beijing.gov.cn/tjsj_31433/sjjd_31444/202501/t20250121_3994272.html)
+- [2023 GDP](https://tjj.beijing.gov.cn/tjsj_31433/sjjd_31444/202401/t20240119_3539777.html)
+- [2022 GDP](https://tjj.beijing.gov.cn/tjsj_31433/sjjd_31444/202301/t20230119_2905255.html)
+- [2021 GDP](https://tjj.beijing.gov.cn/tjsj_31433/sjjd_31444/202201/t20220119_2595358.html)
 
 ## 广东
 - [2025 GDP](https://stats.gd.gov.cn/tjkx185/content/post_4850449.html)
