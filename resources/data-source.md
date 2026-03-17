@@ -1,5 +1,9 @@
 ## 江苏
 - [2025 GDP](https://tj.jiangsu.gov.cn/art/2026/1/28/art_85275_11722711.html)
+- [2024 GDP](https://tj.jiangsu.gov.cn/art/2025/1/23/art_85275_11477876.html)
+- [2023 GDP](https://tj.jiangsu.gov.cn/art/2024/1/29/art_85275_11137855.html)
+- [2022 GDP](https://tj.jiangsu.gov.cn/art/2023/1/20/art_85275_10732698.html)
+- [2021 GDP](https://tj.jiangsu.gov.cn/art/2022/5/23/art_85275_10487748.html)
 
 ## 浙江
 - [2025 GDP](https://tjj.zj.gov.cn/col/col1229129214/art/2026/art_9071b51ec2134c06ae24deac04e430f4.html)
