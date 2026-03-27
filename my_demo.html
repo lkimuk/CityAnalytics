@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>echarts-china-cities-js Demo</title>
+  <style>
+    html, body, #demo {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+    }
+  </style>
+
+  <!-- 直接用仓库自带的 echarts -->
+  <script src="./echarts.min.js"></script>
+
+  <!-- 载入一个具体城市的地图 JS -->
+  <!-- 这里以南昌为例，具体文件名请去 js/shape-with-internal-borders/ 里确认 -->
+  <script src="./js/shape-with-internal-borders/jiang1_xi1_nan2_chang1.js"></script>
+
+  <!-- 仓库自带 demo 方法 -->
+  <script src="./demo.js"></script>
+</head>
+<body>
+  <div id="demo"></div>
+  <script>
+    make_city('南昌', 'demo');
+  </script>
+</body>
+</html>
